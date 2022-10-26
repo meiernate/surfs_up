@@ -19,6 +19,7 @@ These are the results from the Surfs Up Analysis:
     * Max temperature: 83 degrees
 
 June / December Analysis:
+
 ![June_Analysis](analysis/June_Analysis.png)![December_Analysis](analysis/December_Analysis.png)
 
 ## Summary
